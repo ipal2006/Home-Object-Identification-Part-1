@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    background-position:center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+.items{
+    width: 400px;
+    height: 50px;
+    border-radius: 200px;
+    font-size: medium;
+    background-color: aqua;
+}
